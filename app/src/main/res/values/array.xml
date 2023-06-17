@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pokemonName">
+        <item>Bulbasaur</item>
+        <item>Ivysaur</item>
+        <item>Venusaur</item>
+        <item>Charmander</item>
+        <item>Charmeleon</item>
+        <item>Charizard</item>
+        <item>Squirtle</item>
+        <item>Wartortle</item>
+        <item>Blastoise</item>
+        <item>Caterpie</item>
+        <item>Metapod</item>
+        <item>Butterfree</item>
+        <item>Weedle</item>
+        <item>Kakuna</item>
+        <item>Beedrill</item>
+        <item>Pidgey</item>
+        <item>Pidgeotto</item>
+        <item>Pidgeot</item>
+        <item>Rattata</item>
+        <item>Raticate</item>
+    </string-array>
+
+    <string-array name="pokemonType">
+        <item>Grass,Poison</item>
+        <item>Grass,Poison</item>
+        <item>Grass,Poison</item>
+        <item>Fire</item>
+        <item>Fire</item>
+        <item>Fire</item>
+        <item>Water</item>
+        <item>Water</item>
+        <item>Water</item>
+        <item>Bug</item>
+        <item>Bug</item>
+        <item>Bug,Flying</item>
+        <item>Bug,Poison</item>
+        <item>Bug,Poison</item>
+        <item>Normal,Flying</item>
+        <item>Normal,Flying</item>
+        <item>Normal,Flying</item>
+        <item>Normal</item>
+        <item>Normal</item>
+        <item>Normal,Flying</item>
+    </string-array>
+
+</resources>
